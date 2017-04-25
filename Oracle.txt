@@ -1,5 +1,3 @@
-echo "Hello World!"
-
 Create table Employees (
 employee_id     NUMBER(6) PRIMARY KEY,
 first_name  VARCHAR2(20 byte),
